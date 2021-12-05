@@ -1,5 +1,5 @@
 # graphql-playlist
-All course files for the GraphQL tutorial playlist on The Net Ninja YouTube channel.
+GraphQL tutorial playlist on The Net Ninja YouTube channel.
 
 Server: Node.js Express App, GraphQL
 Cleint: React, Apollo
